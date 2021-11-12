@@ -1,3 +1,3 @@
 👋 Hi, I’m @Razy-Igarashi..
-👀 I’m interested in Data Science, Machine Learning, I.A., IoT, etc.
-
+👋 Software Engineering - 1/8
+👀 I’m interested in Development Web Full MVC, Data Analysis, I.A.
