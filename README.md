@@ -1,3 +1,4 @@
-# ***👋 Hi, I’m @Razy-Igarashi..***
-# ***👨‍💻 Software Engineering - 1/8***
-# ***👀 I’m interested in Development Web Full MVC, Data Analysis, I.A.***
+# ***👋 Olá, Sou @Razy_Igarashi..***
+# ***👨‍💻 Engenharia de Software - 1/8***
+# ***👨‍🎓 Estudante interessado em Development Web Full MVC, Data Analysis, I.A.***
+# ***🧑‍💻Atualmente, estudante de Python, JavaScript, HTML e CSS***
